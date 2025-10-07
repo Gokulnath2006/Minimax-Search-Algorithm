@@ -1,6 +1,6 @@
 <h1>EX-6 : IMPLEMENT MINIMAX SEARCH ALGORITHM FOR A SIMPLE TIC-TAC-TOE GAME</h1> 
-<h3>NAME : Gokul NAth R </h3>
-<h3>R.NO : 212224230077 </h3>
+<h3>Name : Gokul NAth R </h3>
+<h3>Register Number : 212224230077 </h3>
 <H2>AIM :</H4>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
